@@ -1,2 +1,2 @@
 # java-pocs
-Codes and samples were written to demonstrate the features of Java
+Codes and samples to demonstrate the features of Java
